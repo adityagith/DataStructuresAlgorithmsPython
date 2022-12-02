@@ -1,0 +1,5 @@
+1. generate ssh key and add the key in account
+2. ssh key: links desktop to remote computer
+3. created new repository and add to your local
+4. add remote ssh repo
+5.push and pull operations
